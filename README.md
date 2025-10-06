@@ -9,4 +9,4 @@
 * reference를 명시한다
 
 ## 자료구조 
-* [ 시간 복잡도 ](https://github.com/namjunemy/TIL/blob/master/SeminarAndConference/20171116_okky_mini_seminar_woowahan_bros_lee.md)
+* [ 시간 복잡도 ](https://github.com/kimchanyoo/TIL/blob/main/DataStructure/25.10.06.md)
