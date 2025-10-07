@@ -10,3 +10,6 @@
 
 ## 자료구조 
 * [ 시간 복잡도 ](https://github.com/kimchanyoo/TIL/blob/main/DataStructure/25.10.06.md)
+
+## Java
+* [ 에러와 예외 ](https://github.com/kimchanyoo/TIL/blob/main/Java/25.10.07.md)
