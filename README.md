@@ -15,6 +15,7 @@
 * [ 그래프 ](https://github.com/kimchanyoo/TIL/blob/main/DataStructure/25.10.16.md)
 * [ 트리 ](https://github.com/kimchanyoo/TIL/blob/main/DataStructure/25.10.17.md)
 * [ 힙 ](https://github.com/kimchanyoo/TIL/blob/main/DataStructure/25.10.18.md)
+* [ 트라이 ](https://github.com/kimchanyoo/TIL/blob/main/DataStructure/25.10.20.md)
 
 ## 운영체제
 * [ 프로세스와 스레드 ](https://github.com/kimchanyoo/TIL/blob/main/OperatingSystem/25.10.09.md)
